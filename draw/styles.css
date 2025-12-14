@@ -100,3 +100,28 @@ nav + nav {
 
 .backspace {
 	margin-left: 0;
+
+	.branding {
+  display: flex;
+  align-items: center; /* put logo next to text*/
+  gap: 12px;
+}
+.branding h1 {
+    margin: 0;               
+    font-size: 2em;          
+}
+
+
+header { /* moved links to header and made header box white yayyy!!!*/
+	display: flex;
+	justify-content: space-between;
+	align-text: center;
+	padding: 15px 35px;
+	background-color: #FFFFFF;
+	margin-bottom: 50px;
+}
+
+.branding img {
+    display: block;          
+}
+
