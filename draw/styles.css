@@ -57,6 +57,36 @@ aside {
 	text-align: center;
 }
 
+
+
+
+/* CSS boxes container */
+.layout {
+  display: flex;
+  gap: 20px;
+}
+
+
+.tool-box {
+  width: 100px;
+}
+
+.art-board {
+  width: 400px;
+}
+
+.box {
+  background-color: #FFFFFF; 
+  color: black;
+  border-radius: 5px;
+  border: 4px black solid;
+}
+
+
+
+
+
+
 .backspace {
 	margin-left: 0;
 
