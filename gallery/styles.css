@@ -53,8 +53,8 @@ h2 {
 /* CSS boxes container */
 .gridContainer {
   display: grid;
-  border: 4px white solid;
-  border-radius: 5px;
+  border: none;
+  border-radius: none;
   width: 80%;
  height: 1000px;
  grid-template: repeat(3, 1fr)/*rows*/ / repeat(4, 1fr);/*columns*/
