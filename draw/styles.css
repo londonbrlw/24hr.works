@@ -64,7 +64,7 @@ aside {
   border-radius: 20px;
   width: 80%;
  height: 1000px;
- gap: 15px;
+ gap: 0px;
  margin: 0 auto;
 text-align: center;
 grid-template-rows: 1fr;
@@ -93,3 +93,6 @@ overflow: hidden;
 .backspace {
 	margin-left: 0;
 
+header h1 {
+	text-align: center;
+}
