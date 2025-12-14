@@ -70,6 +70,15 @@ aside {
     font-size: 2em;          
 }
 
+
+header {
+	display: flex;
+	justify-content: space-between;
+	align-text: center;
+	padding: 20px 40px;
+	background-color: #FFFFFF;
+}
+
 .branding img {
     display: block;          
 }
