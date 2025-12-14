@@ -75,7 +75,7 @@ header { /* moved links to header and made header box white yayyy!!!*/
 	display: flex;
 	justify-content: space-between;
 	align-text: center;
-	padding: 15px 35px;
+	padding: none;
 	background-color: #FFFFFF;
 	margin-bottom: 50px;
 }
