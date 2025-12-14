@@ -1,6 +1,11 @@
 html {font-size: 16px;
 	 background-image: url(paperbackground.jpg)}
 
+h1 {
+  text-align: center;
+  margin: 20px 0;  /* Makes h1 centered please */
+}
+
 nav ul{
   list-style: none;
   display: flex;
