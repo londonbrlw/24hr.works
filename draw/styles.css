@@ -57,31 +57,37 @@ aside {
 	text-align: center;
 }
 
-
-
-
 /* CSS boxes container */
-.layout {
-  display: flex;
-  gap: 20px;
-	align-items: flex-start; 
+.gridContainer2 {
+  display: grid;
+  border: none;
+  border-radius: none;
+  width: 80%;
+ height: 1000px;
+ gap: 15px;
+ margin: 0 auto;
+	text-align: center;
+	grid-template-rows: 1fr;
+	grid-template-columns: 1fr 3fr;
 }
 
-
-.tool-box {
-  width: 100px;
-}
-
-.art-board {
-  width: 400px;
-}
-
+/* CSS Grid Items */
 .box {
-  background-color: #FFFFFF; 
+  background-color: #Dbd0c5; 
   color: black;
   border-radius: 5px;
   border: 4px black solid;
 }
+
+.a {
+
+}
+
+
+.b {
+  /*hmmmm*/
+}
+
 
 .backspace {
 	margin-left: 0;
