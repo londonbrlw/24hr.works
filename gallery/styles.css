@@ -1,0 +1,76 @@
+/* 
+      .--..--..--..--..--..--.
+    .' \  (`._   (_)     _   \
+  .'    |  '._)         (_)  |
+  \ _.')\      .----..---.   /
+  |(_.'  |    /    .-\-.  \  |
+  \     0|    |   ( O| O) | o|
+   |  _  |  .--.____.'._.-.  |
+   \ (_) | o         -` .-`  |
+    |    \   |`-._ _ _ _ _\ /
+    \    |   |  `. |_||_|   |
+    | o  |    \_      \     |     -.   .-.
+    |.-.  \     `--..-'   O |     `.`-' .'
+  _.'  .' |     `-.-'      /-.__   ' .-'
+.' `-.` '.|='=.='=.='=.='=|._/_ `-'.'
+`-._  `.  |________/\_____|    `-.'
+   .'   ).| '=' '='\/ '=' |
+   `._.`  '---------------'
+           //___\   //___\
+             ||       ||
+             ||_.-.   ||_.-.
+            (_.--__) (_.--__)
+       
+
+ Insert all your glorious CSS styles below! */
+
+/* crete-round-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Crete Round';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/crete-round-v16-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* lunasima-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Lunasima';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/lunasima-v1-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+
+h1, h2, h3 {
+    font-family: 'Lunasima';
+}
+
+p, ul {
+    font-family: 'Crete Round';
+}
+
+aside {
+  width: 30%;
+  float: right;
+  margin: 10px;
+  background-color: rgb(250,235,199);
+  padding: 10px 20px;
+  border: 1px dotted rgb(252,101,18);
+  border-top: 20px solid rgb(252,101,18);
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(0,0,0,.5);
+}
+
+html {
+    background-image: url(double-bubble.webp);
+}
+
+
+
+
+
+
+
+
+
