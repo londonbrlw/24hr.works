@@ -71,12 +71,13 @@ aside {
 }
 
 
-header {
+header { /* moved links to header and made header box white yayyy!!!*/
 	display: flex;
 	justify-content: space-between;
 	align-text: center;
 	padding: 15px 35px;
 	background-color: #FFFFFF;
+	margin-bottom: 20px;
 }
 
 .branding img {
