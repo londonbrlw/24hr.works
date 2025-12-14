@@ -60,3 +60,8 @@ aside {
 .backspace {
 	margin-left: 0;
 }
+.branding {
+  display: flex;
+  align-items: center; /* put logo next to text*/
+  gap: 12px;
+}
