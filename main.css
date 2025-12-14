@@ -65,3 +65,11 @@ aside {
   align-items: center; /* put logo next to text*/
   gap: 12px;
 }
+.branding h1 {
+    margin: 0;               
+    font-size: 2em;          
+}
+
+.branding img {
+    display: block;          
+}
