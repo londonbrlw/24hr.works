@@ -61,7 +61,7 @@ aside {
 .gridContainer2 {
   display: grid;
   border: none;
-  border-radius: none;
+  border-radius: 20px;
   width: 80%;
  height: 1000px;
  gap: 15px;
@@ -75,7 +75,7 @@ aside {
 .box {
   background-color: #FFFFFF; 
   color: black;
-  border-radius: 5px;
+  border-radius: 20px;
   border: none;
 }
 
