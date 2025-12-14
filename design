@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>About</title>
+<link href="styles.css" rel="stylesheet">
+</head>
+<body>
+<header>
+<div class="container">
+<h1>Gallery of images</h1>
+	<p>Use CSS grid here</p>
+<nav>
+	<ul>
+		<li><a href="#">Home</a></li>
+	</ul>
+</nav>
+</div>
+</header>
+</body>
+</html>
