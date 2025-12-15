@@ -156,8 +156,8 @@ aside {
 	text-align: center;
 }
 aside.top-artists {
-  width: 30%;
-  max-width: 700px;
+  width: 50%;
+  max-width: 1500px;
   float: none;
   margin: 10px;
   background-color: #FFFFFF;
