@@ -42,6 +42,10 @@ p, body, aside, .box, .gridContainer2 { /* maybe */
   font-weight: 400;
 }
 
+a {
+  font-family: 'Work Sans', sans-serif; /* makes all links this family */
+}
+
 html {font-size: 16px;
 	 background-image: url(images/paperbackground.jpg)}
 
