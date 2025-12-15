@@ -160,4 +160,10 @@ footer {
   width: 100%;
 }
 
+.rounded-image {  /* fixes spacing in gallery boxes*/
+	border-radius: 20px;
+	margin-top: 25px;
+}
+
+
 
