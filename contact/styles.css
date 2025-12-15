@@ -32,7 +32,7 @@
 }
 
 /* Now to apply fonts to specific areas */
-h1, h2,  {
+h1, h2, h3, h4 {
   font-family: 'Playfair Display', serif;
   font-weight: 500; 
 }
