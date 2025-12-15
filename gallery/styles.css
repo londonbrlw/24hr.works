@@ -68,7 +68,7 @@ h2 {
   background-color: #Dbd0c5; 
   color: black;
   border-radius: 5px;
-  border: none;
+  border: 3px white solid;
 }
 
 .a {
