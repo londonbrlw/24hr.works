@@ -224,3 +224,12 @@ header { /* moved links to header and made header box white yayyy!!!*/
     display: block;          
 }
 
+
+footer {
+  background-color: #FFFFFF;
+  padding: 15px;
+  text-align: center;
+  margin-top: 15px;    /* white footer box*/
+  border-top: none;
+  width: 100%;
+}
