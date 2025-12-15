@@ -155,7 +155,7 @@ aside {
   box-shadow: 5px 5px 10px rgba(0,0,0,.5); /* Aside box on the center for my pages*/
 	text-align: center;
 }
-aside-two {
+aside.top-artists {
   width: 30%;
   max-width: 700px;
   float: none;
